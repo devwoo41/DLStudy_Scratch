@@ -6,3 +6,6 @@ __pycache__/
 .python-version
 ipynb_checkpoints
 .DS_Store
+datasets/
+convert_from_scratch.h5
+convnet_from_scratch_with_augmentation.h5
